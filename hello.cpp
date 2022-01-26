@@ -6,7 +6,7 @@ int main()
 {
 	string name;
 	cout << "Hallo!" << endl;
-	cout << "Dein Name: ";
+	cout << "Miriam: ";
 	cin >> name;
 	cout << "Hallo " << name; 
 	cout << " aus der 4BHEl!" << endl;
